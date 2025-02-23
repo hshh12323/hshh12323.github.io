@@ -1,4 +1,4 @@
-name: 肖航课题组  Xiao Research Group
+name: 韩烁贺  hshh is 
 url: https://xiaohang007.github.io/
 
 exclude: [bibble, README.md, Makefile, screenshot.png]
@@ -34,7 +34,7 @@ collections:
 
 # Navigation bar links.
 navigation:
-  - title: 主页 Home
+  - title: 嘻嘻 Home
     link: /
   - title: 科研项目 Research
     link: /research.html
